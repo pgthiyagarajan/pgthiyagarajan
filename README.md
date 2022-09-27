@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm THIYAGARAJAN P G</h1>
-<h3 align="center">A ASPIRING SOFTWARE DEVELOPER FROM INDIA</h3>
+<h3 align="center">```A ASPIRING SOFTWARE DEVELOPER FROM INDIA```</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pgthiyagarajan&label=Profile%20views&color=0e75b6&style=flat" alt="pgthiyagarajan" /> </p>
 
