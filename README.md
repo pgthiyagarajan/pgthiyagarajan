@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm THIYAGARAJAN P G</h1>
 <h3 align="center">```A ASPIRING SOFTWARE DEVELOPER FROM INDIA```</h3>
+<p> <img align="left" src="https://media2.giphy.com/media/FPbnShq1h1IS5FQyPD/200w.webp?cid=ecf05e47trkkf8no42w1q5c74undxe2lviu743i3iplut5kk&rid=200w.webp&ct=g" width="300" heigth="300"/>
+<img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47q6ilt2op03ezatl29su2wzmglt3519zi9q4aa0r0&rid=giphy.gif&ct=g" width="300" heigth="300"/> </p>
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pgthiyagarajan&label=Profile%20views&color=0e75b6&style=flat" alt="pgthiyagarajan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pgthiyagarajan&label=Profile%20views&color=0e75b6&style=flat" alt="pgthiyagarajan" /> </p>
 <br><br>
-- 🔭 I’m currently working on **SMART FASHION RECOMMENER APPLICATION in IBM**
+- 🔭 I’m currently working on ***SMART FASHION RECOMMENER APPLICATION in IBM***
 <br><br>
-- 📫 How to reach me **pgthiyagarajangp@gmail.com**
+- 📫 How to reach me ***pgthiyagarajangp@gmail.com***
 <br><br>
 - 📝know about me in my <a href="https://drive.google.com/file/d/1ejQpPaf61DOtPqsgqOrl2LqVoQjr4TKX/view?usp=sharing">RESUME</a>
-<br><br><br>
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/thiyagarajan_gopi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiyagarajan_gopi" height="30" width="40" /></a>
