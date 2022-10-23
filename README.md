@@ -8,7 +8,7 @@
 <br><br><br><br><br><br><br>
 - 🔭 I’m currently working on.....<b>SMART FASHION RECOMMENER APPLICATION in IBM</b>
 <br><br>
-- 📫 How to reach me by.....<a href="pgthiyagarajangpd@gmail.com">pgthiyagarajangp@gmail.com</a>
+- 📫 You can reach me by.....<b>pgthiyagarajangpd@gmail.com</b>
 <br><br>
 - 📝You can learn about me in my <a href="https://drive.google.com/file/d/1ejQpPaf61DOtPqsgqOrl2LqVoQjr4TKX/view?usp=sharing"><b>RESUME</b></a>
 <br><br>
