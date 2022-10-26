@@ -5,7 +5,7 @@
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pgthiyagarajan&label=Profile%20views&color=0e75b6&style=flat" alt="pgthiyagarajan" /> </p>
 <br><br>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 - 🔭 I’m currently working on.....<b>SMART FASHION RECOMMENER APPLICATION in IBM</b>
 <br><br>
 - 📫 You can reach me by.....<b>pgthiyagarajangpd@gmail.com</b>
