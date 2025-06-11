@@ -53,7 +53,7 @@
 <hr style="height:1px;border:none;color:#ccc;background-color:#ccc;" />
 
 ### ⚡ Fun Fact
-I love learning new technologies and experimenting with side projects in my free time!
+I love learning new technologies and experimenting with side projects to update myself in my free time!
 
 <hr style="height:1px;border:none;color:#ccc;background-color:#ccc;" />
 
